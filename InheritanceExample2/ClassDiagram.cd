@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="creature" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAQQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAABQ=</HashCode>
+      <FileName>Ex2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animal" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAgAQAAAAAgAAAAAAQ=</HashCode>
+      <FileName>Ex2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bird" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="animal" FixedFromPoint="true">
+      <Path>
+        <Point X="6.75" Y="2.691" />
+        <Point X="6.75" Y="3.125" />
+        <Point X="8.5" Y="3.125" />
+        <Point X="8.5" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAQ=</HashCode>
+      <FileName>Ex2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fish" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="animal" FixedFromPoint="true">
+      <Path>
+        <Point X="5.812" Y="2.691" />
+        <Point X="5.812" Y="3.125" />
+        <Point X="4" Y="3.125" />
+        <Point X="4" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAAAQ=</HashCode>
+      <FileName>Ex2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="predator" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Ex2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eagle" Collapsed="true">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Ex2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

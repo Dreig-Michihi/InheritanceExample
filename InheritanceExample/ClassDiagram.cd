@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="B" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAAAA=</HashCode>
+      <FileName>B_Ex1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D1" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAQAAAAAAAAA=</HashCode>
+      <FileName>B_Ex1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D2" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAQAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>B_Ex1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D3" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="D1" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.562" Y="2.941" />
+        <Point X="4.562" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="D2" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.438" Y="2.941" />
+        <Point X="6.438" Y="3.316" />
+        <Point X="5.646" Y="3.316" Type="JumpStart" />
+        <Point X="5.479" Y="3.316" Type="JumpEnd" />
+        <Point X="5.188" Y="3.316" />
+        <Point X="5.188" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>B_Ex1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D4" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="D2" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.438" Y="2.941" />
+        <Point X="7.438" Y="3.043" />
+        <Point X="7.438" Y="3.043" />
+        <Point X="7.438" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="D1" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.562" Y="2.941" />
+        <Point X="5.562" Y="3.436" />
+        <Point X="6.688" Y="3.436" />
+        <Point X="6.688" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAEAAA=</HashCode>
+      <FileName>B_Ex1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

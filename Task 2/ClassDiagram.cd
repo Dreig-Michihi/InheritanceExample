@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameObj" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAEAAAAAQAABAAAAgAAAEAAAAZABkAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAACAAAAAAAAAACEAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MythAnimal" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAgAAAAAAAAAACAAAAAAgAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Firebender" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAEAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Airbender" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Waterbender" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Earthbender" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagicItem" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAgAAgAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Task 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
